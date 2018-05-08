@@ -6,6 +6,8 @@ class Foo extends Bar implements FooInterface
 {
     /**
      * @var array
+     
+     
      */
     private $collection;
 
